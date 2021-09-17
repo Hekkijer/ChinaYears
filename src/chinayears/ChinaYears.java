@@ -82,6 +82,7 @@ public class ChinaYears {
                                 case "pig":
                                     animal = "rat";
                                     start++;
+                                    color = "red";
                                     break;
                             }
                         }
@@ -142,6 +143,7 @@ public class ChinaYears {
                                 case "pig":
                                     animal = "rat";
                                     start++;
+                                    color = "yellow";
                                     break;
                             }
                         }
@@ -202,6 +204,7 @@ public class ChinaYears {
                                 case "pig":
                                     animal = "rat";
                                     start++;
+                                    color = "white";
                                     break;
                             }
                         }
@@ -262,6 +265,7 @@ public class ChinaYears {
                                 case "pig":
                                     animal = "rat";
                                     start++;
+                                    color = "black";
                                     break;
                             }
                         }
@@ -322,6 +326,7 @@ public class ChinaYears {
                                 case "pig":
                                     animal = "rat";
                                     start++;
+                                    color = "green";
                                     break;
                             }
                         }
